@@ -1,0 +1,15 @@
+groq
+fastapi[standard]
+# request
+python-dotenv
+uvicorn
+langchain
+transformers 
+sentence-transformers
+pinecone-client
+pinecone
+cohere
+langchain-community
+pypdf
+langchain_huggingface
+-e .
