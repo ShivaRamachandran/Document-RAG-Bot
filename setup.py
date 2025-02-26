@@ -16,7 +16,7 @@ PROJECT_NAME = 'RAG'
 AUTHOR_NAME = 'Shiva'
 DESCRIPTION = 'Building POC for RAG'
 setup(
-    name="rag",
+    name="Rag",
     version="0.0.1",
     author="shiva",
     author_email="shiva.work007@gmail.com",

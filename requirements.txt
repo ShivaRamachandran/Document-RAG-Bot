@@ -1,6 +1,5 @@
-groq
 fastapi[standard]
-# request
+request
 python-dotenv
 uvicorn
 langchain
@@ -12,4 +11,10 @@ cohere
 langchain-community
 pypdf
 langchain_huggingface
+google-generativeai
 -e .
+fastapi 
+uvicorn
+axios 
+lucide-react
+react-router-dom

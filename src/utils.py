@@ -3,7 +3,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import Docx2txtLoader, TextLoader, PyPDFLoader
 
 # Directory where files are stored
-DIRECTORY_PATH = "data/"  # Change this to your directory path
+DIRECTORY_PATH = r"D:\Projects\Sonata\POC2\data"  # Change this to your directory path
 
 # Function to detect file type and load using the appropriate loader
 def load_documents(directory):
